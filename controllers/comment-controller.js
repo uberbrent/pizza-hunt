@@ -43,4 +43,4 @@ const commentController = {
     }
 }
 
-module.exports = commentController
+module.exports = commentController;
